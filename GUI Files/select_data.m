@@ -1,4 +1,4 @@
-function select_data
+ function select_data
 %SELECT_DATA  MATLAB GUI interface for selecting meteorological data for
 %the VIZLAB classroom system.
 
